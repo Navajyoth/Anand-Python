@@ -1,0 +1,8 @@
+def backward(abc):
+    for i in range(len(abc)):
+        print abc[i-1]
+
+
+
+
+backward('string')
